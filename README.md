@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Minh Tuan Nguyen</h1>
+<h1 align="center">Hi there👋, I'm Minh Tuan Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtuan622&label=Profile%20views&color=0e75b6&style=flat" alt="minhtuan622" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhtuan622" alt="minhtuan622" /></a> </p>
 
 - 🔭 I’m currently working on [GallifreyPlanet](github.com/Minhtuan622/GallifreyPlanet)
 
@@ -11,15 +9,24 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Minhtuan622](github.com/Minhtuan622)
 
-- 📫 How to reach me **minhtuannguyen22062001@gmail.com**
+- 📫 How to reach me: **minhtuannguyen22062001@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubik's cube in under 15 sec 😁**
+- ⚡ Fun fact: **I can solve a Rubik's cube under 15 sec 😁**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@minhtuan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@minhtuan622" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/minhtuan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhtuan622" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21879096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21879096" height="30" width="40" /></a>
 <a href="https://fb.com/minhtuan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhtuan622" height="30" width="40" /></a>
+<a href="https://instagram.com/nguyenminhtuan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguyenminhtuan622" height="30" width="40" /></a>
+<a href="https://medium.com/@minhtuannguyen22062001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@minhtuannguyen22062001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@caibangvlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@caibangvlog" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/minhtuan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="minhtuan622" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/minhtuan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhtuan622" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/minhtuan622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="minhtuan622" height="30" width="40" /></a>
 </p>
